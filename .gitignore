@@ -1,0 +1,17 @@
+.sudo_as_admin_successful
+.ipynb_checkpoints
+.vagrant
+bin/
+build/
+*.iotlab
+.bash*
+.iotlabrc
+.ssh/
+.ipython/
+.jupyter/
+.local/
+*.oml
+.cache/
+.node_repl_history
+.config/
+.npm/
